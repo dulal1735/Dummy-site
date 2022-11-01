@@ -1,0 +1,11 @@
+        hr {
+            /* border style for hr tag.  */
+            border-style:none;
+            border-top-style: dotted;
+            border-color: rgb(47, 185, 121);
+            border-width: 5px;
+            width: 5%;
+     
+        /* implimenting ID's and classes to the code */
+        .bodytag {
+            background-color: #59a4e5;}
